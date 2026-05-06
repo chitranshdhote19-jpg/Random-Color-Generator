@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #ffffff, #d3edd8);
+}
+
+div {
+    height: 300px;
+    width: 100%;
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 2px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 200;
+    background-color: white;
+    border: 2px rgb(3, 12, 1) solid;
+    color: white;
+    background-color: #1F6F5F;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    padding: 10px 50px 10px 50px;
+    font-size: 15px;
+    border-radius: 4px;
+    background-color: #1F6F5F;
+    color: white;
+}
